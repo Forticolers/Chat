@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Username>Forticolers</Username>
+  <Private_x0020_Message>true</Private_x0020_Message>
+  <Broadcast_x0020_Message>true</Broadcast_x0020_Message>
+  <Server_x0020_port>5746</Server_x0020_port>
+  <Server_x0020_IP>192.168.56.1</Server_x0020_IP>
+</SettingsClass>
