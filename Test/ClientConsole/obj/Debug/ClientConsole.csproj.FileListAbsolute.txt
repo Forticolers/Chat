@@ -1,0 +1,6 @@
+c:\Users\jeanbourquin\documents\visual studio 2015\Projects\Test\ClientConsole\bin\Debug\ClientConsole.exe.config
+c:\Users\jeanbourquin\documents\visual studio 2015\Projects\Test\ClientConsole\bin\Debug\ClientConsole.exe
+c:\Users\jeanbourquin\documents\visual studio 2015\Projects\Test\ClientConsole\bin\Debug\ClientConsole.pdb
+c:\Users\jeanbourquin\documents\visual studio 2015\Projects\Test\ClientConsole\obj\Debug\ClientConsole.exe
+c:\Users\jeanbourquin\documents\visual studio 2015\Projects\Test\ClientConsole\obj\Debug\ClientConsole.pdb
+c:\Users\jeanbourquin\documents\visual studio 2015\Projects\Test\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
